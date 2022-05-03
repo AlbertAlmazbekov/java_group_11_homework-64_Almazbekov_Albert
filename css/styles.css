@@ -1,0 +1,10 @@
+.to-do-list{
+  margin: 0;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.toDo{
+  margin-top: 25px;
+  user-select: none;
+}
